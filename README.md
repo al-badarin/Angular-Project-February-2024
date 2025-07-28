@@ -21,7 +21,7 @@ https://youtu.be/au5F5Q9bL-o?si=dq3qHI-GfRqLA8MG
    - [Installation](#installation)
 
 ## Introduction <a name="introduction"></a>
-This is the README file for the CulinaryCompass project. CulinaryCompass is a web application for exploring, sharing, and managing recipes.
+CulinaryCompass is a web application for exploring, sharing, and managing recipes.
 
 ## Overview <a name="overview"></a>
 The CulinaryCompass application allows users to browse a collection of recipes, add new recipes, view their own profile, edit and delete the recipes the user have created.
