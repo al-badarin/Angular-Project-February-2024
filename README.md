@@ -1,11 +1,10 @@
 # CulinaryCompass
 
 <!-- Here you can see a video of the site view: <a href='https://youtu.be/au5F5Q9bL-o'>LINK</a> -->
+## Here you can see a video of the site view: 
 
 [![CulinaryCompass – Demo](https://img.youtube.com/vi/au5F5Q9bL-o/0.jpg)](https://youtu.be/au5F5Q9bL-o)
 
-
-https://youtu.be/au5F5Q9bL-o?si=dq3qHI-GfRqLA8MG
 
 ## Table of Contents
 1. [Introduction](#introduction)
